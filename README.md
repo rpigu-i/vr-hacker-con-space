@@ -8,3 +8,8 @@ https://developer.oculus.com/quest-pitch/
 Will be built on the Unity platform:
 
 https://developer.oculus.com/documentation/unity/ps-platform-intro?device=QUEST
+
+
+##SDK setup
+
+https://developer.oculus.com/downloads/package/oculus-platform-sdk/
